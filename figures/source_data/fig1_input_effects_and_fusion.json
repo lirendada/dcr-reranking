@@ -1,0 +1,27 @@
+{
+  "figure": "fig1_input_effects_and_fusion",
+  "core_claim": "Complete requests raise single-model top-1 accuracy, but the same-feature fusion comparison does not establish an additional increment; fused corrections come with comparable losses.",
+  "panel_A": {
+    "description": "P@1 change from topic to complete request, ExcluIR, fixed MiniLM-topic head of 20, 3,452 queries / 3,239 components, 1,000 component draws",
+    "unit": "percentage points",
+    "rows": [
+      {"label": "MiniLM\n(L6-v2)", "comparison": "MiniLM_full - MiniLM_topic", "est": 10.8633, "lo": 9.2149, "hi": 12.7760, "primary": false},
+      {"label": "Qwen\n(Reranker-4B)", "comparison": "Qwen_full - Qwen_topic", "est": 22.9722, "lo": 21.0387, "hi": 24.8260, "primary": false},
+      {"label": "Interaction\n(Qwen - MiniLM)", "comparison": "input_effect_interaction", "est": 12.1089, "lo": 9.9471, "hi": 14.0250, "primary": true}
+    ]
+  },
+  "panel_B": {
+    "description": "Top-1 outcomes relative to fixed Qwen-full within the same head (3,452 queries)",
+    "unit": "queries",
+    "rows": [
+      {"label": "G12", "rescued": 198, "losses": 127, "net": 71},
+      {"label": "QL5", "rescued": 193, "losses": 125, "net": 68},
+      {"label": "G12 + guard", "rescued": 49, "losses": 34, "net": 15}
+    ]
+  },
+  "sources": [
+    {"path": "haccp_transfer_research/research/dcr_model_input_v0.1_20261029/summary.json", "sha256": "2895cb2b15a88f6cbf5ae64d0f08f0922683e9f799b8f08c043742ae3a5d082d"},
+    {"path": "haccp_transfer_research/research/dcr_fusion_attribution_v0.1_20261029/summary.json", "sha256": "6020a189560696f1fa9633b699fb6f6f41806ba64569a892367ae15bad18754a"}
+  ],
+  "transformation": "Display of saved, independently verified estimates; no new fitting, resampling or model calls"
+}

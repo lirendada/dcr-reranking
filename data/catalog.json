@@ -1,0 +1,132 @@
+[
+  {
+    "name": "source_input",
+    "path": "data/per_query/source_input.csv.gz",
+    "format": "csv.gz",
+    "group_fields": [
+      "cell"
+    ],
+    "query_id_field": "query_id",
+    "metric_fields": {
+      "P1": "P1",
+      "N1": "N1",
+      "U1": "U1",
+      "R10": "R10"
+    },
+    "rows": 13808
+  },
+  {
+    "name": "source_fusion",
+    "path": "data/per_query/source_fusion.csv.gz",
+    "format": "csv.gz",
+    "group_fields": [
+      "method"
+    ],
+    "query_id_field": "qid",
+    "metric_fields": {
+      "positive_recall@1": "P1",
+      "negative_entry@1": "N1",
+      "positive_recall@10": "R10"
+    },
+    "rows": 13808
+  },
+  {
+    "name": "source_attribution",
+    "path": "data/per_query/source_attribution.csv.gz",
+    "format": "csv.gz",
+    "group_fields": [
+      "method"
+    ],
+    "query_id_field": "qid",
+    "metric_fields": {
+      "P1": "P1",
+      "N1": "N1",
+      "U1": "U1",
+      "R10": "R10"
+    },
+    "rows": 27616
+  },
+  {
+    "name": "source_input_matched",
+    "path": "data/per_query/source_input_matched.csv.gz",
+    "format": "csv.gz",
+    "group_fields": [
+      "method"
+    ],
+    "query_id_field": "qid",
+    "metric_fields": {
+      "P1": "P1",
+      "N1": "N1",
+      "U1": "U1",
+      "R10": "R10"
+    },
+    "rows": 13808
+  },
+  {
+    "name": "original_transfer",
+    "path": "data/per_query/original_transfer.csv.gz",
+    "format": "csv.gz",
+    "group_fields": [
+      "dataset",
+      "method"
+    ],
+    "query_id_field": "query_id",
+    "metric_fields": {
+      "P1": "P1",
+      "nDCG20": "nDCG20",
+      "MRR20": "MRR20",
+      "R10": "R10"
+    },
+    "rows": 5412
+  },
+  {
+    "name": "input_transfer",
+    "path": "data/per_query/input_transfer.csv.gz",
+    "format": "csv.gz",
+    "group_fields": [
+      "dataset",
+      "method"
+    ],
+    "query_id_field": "query_id",
+    "metric_fields": {
+      "P1": "P1",
+      "nDCG20": "nDCG20",
+      "MRR20": "MRR20",
+      "R10": "R10"
+    },
+    "rows": 12628
+  },
+  {
+    "name": "q7_targets",
+    "path": "data/per_query/q7_targets.jsonl.gz",
+    "format": "jsonl.gz",
+    "group_fields": [
+      "dataset",
+      "method"
+    ],
+    "query_id_field": "query_id",
+    "metric_fields": {
+      "P1": "P1",
+      "nDCG20": "nDCG20",
+      "MRR20": "MRR20",
+      "R10": "R10"
+    },
+    "rows": 9235
+  },
+  {
+    "name": "cds",
+    "path": "data/per_query/cds.jsonl.gz",
+    "format": "jsonl.gz",
+    "group_fields": [
+      "method"
+    ],
+    "query_id_field": "query_id",
+    "metric_fields": {
+      "P1": "P1",
+      "nDCG20": "nDCG20",
+      "MRR20": "MRR20",
+      "R10": "R10"
+    },
+    "rows": 301
+  }
+]

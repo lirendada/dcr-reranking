@@ -1,0 +1,20 @@
+{
+  "figure": "fig2_cross_collection_input_effects",
+  "core_claim": "The complete-request effect on top-1 accuracy is large and positive on ExcluIR but negative on both IFIR collections, for both rerankers.",
+  "unit": "percentage points",
+  "note": "Descriptive cross-collection comparison; the collections differ in request construction and in first-stage retrieval input, and no pooled or heterogeneity test is claimed.",
+  "groups": [
+    {"collection": "ExcluIR", "n": "3,452 queries / 3,239 components", "draws": 1000, "draw_label": "component draws",
+     "rows": [{"label": "MiniLM", "est": 10.8633, "lo": 9.2149, "hi": 12.7760}, {"label": "Qwen", "est": 22.9722, "lo": 21.0387, "hi": 24.8260}]},
+    {"collection": "IFIR-FiQA", "n": "1,718 requests / 639 topics", "draws": 10000, "draw_label": "topic draws",
+     "rows": [{"label": "MiniLM", "est": -0.5239, "lo": -2.3543, "hi": 1.2904}, {"label": "Qwen", "est": -2.4447, "lo": -4.1839, "hi": -0.6924}]},
+    {"collection": "IFIR-NFCorpus", "n": "86 requests", "draws": 10000, "draw_label": "topic draws",
+     "rows": [{"label": "MiniLM", "est": -8.1395, "lo": -16.2791, "hi": 0.0}, {"label": "Qwen", "est": -2.3256, "lo": -12.7907, "hi": 8.1395}]}
+  ],
+  "sources": [
+    {"path": "haccp_transfer_research/research/dcr_model_input_v0.1_20261029/summary.json", "sha256": "2895cb2b15a88f6cbf5ae64d0f08f0922683e9f799b8f08c043742ae3a5d082d"},
+    {"path": "haccp_transfer_research/research/dcr_input_ifir_v0.1_20261029/summary.json", "sha256": "94dc717ce350c9197c786198e1485f1dc455633d112ce88ab93d46d14dd71fbd"},
+    {"path": "haccp_transfer_research/research/dcr_input_ifir_v0.1_20261029/independent_verification.json", "sha256": "a399750984c754333c3c7fc1326af1e73fb4726158cadae9d7d54a5125296c8c"}
+  ],
+  "transformation": "Display of saved, independently verified estimates and intervals; no new fitting or resampling"
+}

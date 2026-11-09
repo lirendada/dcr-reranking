@@ -1,0 +1,169 @@
+{
+  "reports": [
+    {
+      "cell": "MiniLM_topic",
+      "queries": 3452,
+      "P1_pct": 51.10081112398609,
+      "N1_pct": 44.90150637311704,
+      "U1_pct": 3.997682502896872,
+      "R10_pct": 89.1367323290846
+    },
+    {
+      "cell": "MiniLM_full",
+      "queries": 3452,
+      "P1_pct": 61.96407879490151,
+      "N1_pct": 35.428736964078794,
+      "U1_pct": 2.607184241019699,
+      "R10_pct": 90.41135573580533
+    },
+    {
+      "cell": "Qwen_topic",
+      "queries": 3452,
+      "P1_pct": 51.651216685979136,
+      "N1_pct": 45.915411355735806,
+      "U1_pct": 2.4333719582850524,
+      "R10_pct": 91.10660486674391
+    },
+    {
+      "cell": "Qwen_full",
+      "queries": 3452,
+      "P1_pct": 74.6234067207416,
+      "N1_pct": 22.827346465816916,
+      "U1_pct": 2.549246813441483,
+      "R10_pct": 91.22247972190036
+    }
+  ],
+  "comparisons": [
+    {
+      "comparison": "MiniLM_full-MiniLM_topic",
+      "metric": "P1",
+      "primary": false,
+      "difference_pp": 10.863267670915421,
+      "ci_low_pp": 9.214915543164764,
+      "ci_high_pp": 12.776038064275253,
+      "draws": 1000
+    },
+    {
+      "comparison": "MiniLM_full-MiniLM_topic",
+      "metric": "N1",
+      "primary": false,
+      "difference_pp": -9.47276940903824,
+      "ci_low_pp": -11.3761873515862,
+      "ci_high_pp": -7.748001398440372,
+      "draws": 1000
+    },
+    {
+      "comparison": "Qwen_full-Qwen_topic",
+      "metric": "P1",
+      "primary": false,
+      "difference_pp": 22.972190034762463,
+      "ci_low_pp": 21.038654066351278,
+      "ci_high_pp": 24.825978736063973,
+      "draws": 1000
+    },
+    {
+      "comparison": "Qwen_full-Qwen_topic",
+      "metric": "N1",
+      "primary": false,
+      "difference_pp": -23.08806488991889,
+      "ci_low_pp": -25.007623848813797,
+      "ci_high_pp": -21.236866912086235,
+      "draws": 1000
+    },
+    {
+      "comparison": "Qwen_topic-MiniLM_topic",
+      "metric": "P1",
+      "primary": false,
+      "difference_pp": 0.5504055619930504,
+      "ci_low_pp": -0.8377633224063069,
+      "ci_high_pp": 2.120984113810493,
+      "draws": 1000
+    },
+    {
+      "comparison": "Qwen_topic-MiniLM_topic",
+      "metric": "N1",
+      "primary": false,
+      "difference_pp": 1.013904982618774,
+      "ci_low_pp": -0.4935195978579986,
+      "ci_high_pp": 2.4436506590681333,
+      "draws": 1000
+    },
+    {
+      "comparison": "Qwen_full-MiniLM_full",
+      "metric": "P1",
+      "primary": false,
+      "difference_pp": 12.659327925840092,
+      "ci_low_pp": 11.283268733850136,
+      "ci_high_pp": 13.925271399071,
+      "draws": 1000
+    },
+    {
+      "comparison": "Qwen_full-MiniLM_full",
+      "metric": "N1",
+      "primary": false,
+      "difference_pp": -12.601390498261878,
+      "ci_low_pp": -13.971108116186787,
+      "ci_high_pp": -11.22011544318757,
+      "draws": 1000
+    },
+    {
+      "comparison": "input_effect_interaction",
+      "metric": "P1",
+      "primary": true,
+      "difference_pp": 12.108922363847041,
+      "ci_low_pp": 9.94706153137946,
+      "ci_high_pp": 14.025008893859699,
+      "draws": 1000
+    },
+    {
+      "comparison": "input_effect_interaction",
+      "metric": "N1",
+      "primary": false,
+      "difference_pp": -13.61529548088065,
+      "ci_low_pp": -15.523712228262905,
+      "ci_high_pp": -11.430936314813042,
+      "draws": 1000
+    }
+  ],
+  "predictions_sealed_sha256": "d3ba5484a7da51b6c18ba2aa72e0de6de1f8619107c0c4f0158a57b042d48043",
+  "bootstrap": {
+    "draws": 1000,
+    "components": 3239,
+    "strata": 5,
+    "refit": false,
+    "plan_sha256": "35dd05ab685839583f478bd30253b935355038a65b8bf53bf5bb8ba8b55e2cac",
+    "unit": "shared endpoints/duplicate-query components"
+  },
+  "positive_in_head": 3158,
+  "negative_in_head": 3170,
+  "cost": {
+    "new_model_pairs": 138080,
+    "head_pairs_per_cell": 69040,
+    "cell_inventory": {
+      "MiniLM_topic": {
+        "pairs": 69040,
+        "input_tokens_total": 8943679,
+        "scores_sha256": "fca1be84ceb856e1dd7db591d0b7eaf9fe9c64e04aab8af5e66279e081c37ca0"
+      },
+      "MiniLM_full": {
+        "pairs": 69040,
+        "input_tokens_total": 9248699,
+        "scores_sha256": "79501d4391563c727954ffda402f6f0ad23ed967da0c88d4265bec665adddad8"
+      },
+      "Qwen_topic": {
+        "pairs": 69040,
+        "input_tokens_total": 14609624,
+        "scores_sha256": "4bcf582effe564ec239d6820379d3ed7609eacab86a48b532cd1b85b7441a23f"
+      },
+      "Qwen_full": {
+        "pairs": 69040,
+        "input_tokens_total": 14859224,
+        "scores_sha256": "869c414a4410aeb9c7e87e453bc34a5b1cb9d9fea1e48b0df90a9189574520f0"
+      }
+    },
+    "shared_historical_MiniLM_topic_selection_pairs": 345200
+  },
+  "CPU_scoring_wall_seconds": 1.7827265113592148,
+  "judgment_scope": "Published endpoints; U remains unjudged",
+  "scope": "Development diagnostic conditional on the original MiniLM-topic head20 and shared body prefixes"
+}

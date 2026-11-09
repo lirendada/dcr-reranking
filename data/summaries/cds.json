@@ -1,0 +1,187 @@
+{
+  "finished_utc": "2026-11-03T01:37:46.583390+00:00",
+  "dataset": "IFIR-CDS",
+  "queries": 43,
+  "original_topics": 43,
+  "point_metrics_percent": {
+    "MiniLM_topic": {
+      "P1": 0.0,
+      "nDCG20": 0.9015214906639883,
+      "MRR20": 1.6941078757084227,
+      "R10": 0.3903073670515531
+    },
+    "MiniLM_full": {
+      "P1": 4.651162790697675,
+      "nDCG20": 1.4760762195738002,
+      "MRR20": 5.4613667985761,
+      "R10": 0.3903073670515531
+    },
+    "Qwen_topic": {
+      "P1": 4.651162790697675,
+      "nDCG20": 1.8710162835181288,
+      "MRR20": 7.945736434108527,
+      "R10": 1.2569049778352106
+    },
+    "Qwen_full": {
+      "P1": 6.976744186046512,
+      "nDCG20": 2.1725017423822317,
+      "MRR20": 9.844961240310077,
+      "R10": 1.2569049778352106
+    },
+    "G12": {
+      "P1": 6.976744186046512,
+      "nDCG20": 2.1898895002256102,
+      "MRR20": 9.96124031007752,
+      "R10": 1.2569049778352106
+    },
+    "G_same12": {
+      "P1": 4.651162790697675,
+      "nDCG20": 2.1321177817900763,
+      "MRR20": 9.496124031007751,
+      "R10": 1.2569049778352106
+    },
+    "QL5": {
+      "P1": 6.976744186046512,
+      "nDCG20": 2.1725017423822317,
+      "MRR20": 9.844961240310077,
+      "R10": 1.2569049778352106
+    }
+  },
+  "contrasts": [
+    {
+      "comparison": "G_same12-QL5",
+      "primary": true,
+      "difference_pp": -2.3255813953488373,
+      "ci95_low_pp": -6.976744186046512,
+      "ci95_high_pp": 0.0
+    },
+    {
+      "comparison": "G_same12-G12",
+      "primary": false,
+      "difference_pp": -2.3255813953488373,
+      "ci95_low_pp": -6.976744186046512,
+      "ci95_high_pp": 0.0
+    },
+    {
+      "comparison": "G_same12-Qwen_full",
+      "primary": false,
+      "difference_pp": -2.3255813953488373,
+      "ci95_low_pp": -6.976744186046512,
+      "ci95_high_pp": 0.0
+    },
+    {
+      "comparison": "QL5-Qwen_full",
+      "primary": false,
+      "difference_pp": 0.0,
+      "ci95_low_pp": 0.0,
+      "ci95_high_pp": 0.0
+    },
+    {
+      "comparison": "G12-QL5",
+      "primary": false,
+      "difference_pp": 0.0,
+      "ci95_low_pp": 0.0,
+      "ci95_high_pp": 0.0
+    },
+    {
+      "comparison": "MiniLM_full-MiniLM_topic",
+      "primary": false,
+      "difference_pp": 4.651162790697675,
+      "ci95_low_pp": 0.0,
+      "ci95_high_pp": 11.627906976744185
+    },
+    {
+      "comparison": "Qwen_full-Qwen_topic",
+      "primary": false,
+      "difference_pp": 2.3255813953488373,
+      "ci95_low_pp": 0.0,
+      "ci95_high_pp": 6.976744186046512
+    },
+    {
+      "comparison": "Qwen_topic-MiniLM_topic",
+      "primary": false,
+      "difference_pp": 4.651162790697675,
+      "ci95_low_pp": 0.0,
+      "ci95_high_pp": 11.627906976744185
+    },
+    {
+      "comparison": "Qwen_full-MiniLM_full",
+      "primary": false,
+      "difference_pp": 2.3255813953488373,
+      "ci95_low_pp": 0.0,
+      "ci95_high_pp": 6.976744186046512
+    },
+    {
+      "comparison": "model_by_input_interaction",
+      "primary": false,
+      "difference_pp": -2.3255813953488373,
+      "ci95_low_pp": -6.976744186046512,
+      "ci95_high_pp": 0.0
+    }
+  ],
+  "transitions": [
+    {
+      "comparison": "G_same12-QL5",
+      "rescues": 0,
+      "losses": 1
+    },
+    {
+      "comparison": "G_same12-G12",
+      "rescues": 0,
+      "losses": 1
+    },
+    {
+      "comparison": "G_same12-Qwen_full",
+      "rescues": 0,
+      "losses": 1
+    },
+    {
+      "comparison": "QL5-Qwen_full",
+      "rescues": 0,
+      "losses": 0
+    },
+    {
+      "comparison": "G12-QL5",
+      "rescues": 0,
+      "losses": 0
+    },
+    {
+      "comparison": "MiniLM_full-MiniLM_topic",
+      "rescues": 2,
+      "losses": 0
+    },
+    {
+      "comparison": "Qwen_full-Qwen_topic",
+      "rescues": 1,
+      "losses": 0
+    },
+    {
+      "comparison": "Qwen_topic-MiniLM_topic",
+      "rescues": 2,
+      "losses": 0
+    },
+    {
+      "comparison": "Qwen_full-MiniLM_full",
+      "rescues": 1,
+      "losses": 0
+    }
+  ],
+  "zero_positive_reference_queries": 1,
+  "coverage": {
+    "positive_in_top100_queries": 16,
+    "positive_in_head20_queries": 7
+  },
+  "bootstrap": {
+    "unit": "original topic",
+    "draws": 10000,
+    "seed": 20261102,
+    "statistic": "request-weighted mean",
+    "refit": false,
+    "intervals": "pointwise percentile linear"
+  },
+  "predictions_sealed_sha256": "4ff8b38dd8eafeb7aac62dfecd657403ffc5477f35602ee628678be7fee6b0ca",
+  "reference_sha256": "ff3aadb7505da5848a670fb384b09ebc34fb08cae1318f005be372f25364406a",
+  "new_model_pairs": 6880,
+  "scope": "Additional published-reference transfer evaluation conditional on frozen source models and technical-compatibility selection.",
+  "score_seconds": 3.763401322066784
+}

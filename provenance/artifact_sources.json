@@ -1,0 +1,1188 @@
+[
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/adapter.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/adapter.py",
+    "original_sha256": "66759548160b548bed988282cd42b77a0e4df537f433159df390321821c2f4cf",
+    "sha256": "66759548160b548bed988282cd42b77a0e4df537f433159df390321821c2f4cf",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/describe_gate.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/describe_gate.py",
+    "original_sha256": "7361ca96d0ae493458c1e1621bbe49d469414b01eda27f7bef8d1c13bcc02891",
+    "sha256": "7361ca96d0ae493458c1e1621bbe49d469414b01eda27f7bef8d1c13bcc02891",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/estimate_workload.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/estimate_workload.py",
+    "original_sha256": "61bb80f063a7dc6dbef15b16d61cd8d820e0ea54e055ec24a92177c5fdc1de23",
+    "sha256": "61bb80f063a7dc6dbef15b16d61cd8d820e0ea54e055ec24a92177c5fdc1de23",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/external_infer.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/external_infer.py",
+    "original_sha256": "29bbc921f3c7411edb952ad4c35448fec9fdadbf40de9d8258977369dda55bf0",
+    "sha256": "c386d11d542559aefdee3c2fbb95a167f93a8447827ef46a94b067c82a9c2709",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/external_neural_tests.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/external_neural_tests.py",
+    "original_sha256": "64ce523cddbec651a6cddb03727791a87da85bf705a9df1a5b4c7d22a25547dc",
+    "sha256": "64ce523cddbec651a6cddb03727791a87da85bf705a9df1a5b4c7d22a25547dc",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/freeze.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/freeze.py",
+    "original_sha256": "a2fe77eefbc0a88595e3c9ad881f77899d3127bcb31fb6c163bd7a4164ecd0a6",
+    "sha256": "273c8ae2e22138d3d48ba1e50962238bc9cc52be10dfd0e89ded994ad43080f7",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/freeze_external_neural.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/freeze_external_neural.py",
+    "original_sha256": "35e2e3ec967ed564b903c828a22308dfc8826d21c86bb560ee8d720f1323a35a",
+    "sha256": "3270164dc11355ec0c847b17c6ff8e05d940fdd156a2246b912d407708d661a8",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/gate_cpu.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/gate_cpu.py",
+    "original_sha256": "3c7d087e1e64fa927ee695789f78888f16ad4494ff8cffcc17ef82a542ed3ee7",
+    "sha256": "3c7d087e1e64fa927ee695789f78888f16ad4494ff8cffcc17ef82a542ed3ee7",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/prepare_external_neural.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/prepare_external_neural.py",
+    "original_sha256": "3a4c990bd91a104d61aad522a34d742d415c85878f9e83198215008a0af283ff",
+    "sha256": "0f5e0c3441d2b4a0396ffa3a6c8ea5ae2d631a1f78a80fd9f81e47d286a44168",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/retrieve_external.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/retrieve_external.py",
+    "original_sha256": "6449347ac1fa846c886b7730eeee82e59c05d1d50fff7da5c5aa5227cdd6466c",
+    "sha256": "798ec9ba2d4865246ff09b97416b34fea6bf15d3d7a30a6dedf09af051cd4448",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/score_external_neural.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/score_external_neural.py",
+    "original_sha256": "99742dca42cbd8d5ff6b88289d798b7659fe7b161f4b9ebca717cb743bf72d1f",
+    "sha256": "99742dca42cbd8d5ff6b88289d798b7659fe7b161f4b9ebca717cb743bf72d1f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/scorer.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/scorer.py",
+    "original_sha256": "215d16cc1e1f4a907437b39798b180efd724f92f23214d3a437a1c15cc4f2fbb",
+    "sha256": "215d16cc1e1f4a907437b39798b180efd724f92f23214d3a437a1c15cc4f2fbb",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/test_mechanism.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/test_mechanism.py",
+    "original_sha256": "dc4aca2cebab22a1a549253d86b8b5c0506017ebb8f7235b6f64515a2ec9ea03",
+    "sha256": "dc4aca2cebab22a1a549253d86b8b5c0506017ebb8f7235b6f64515a2ec9ea03",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/verify_external_cpu.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/verify_external_cpu.py",
+    "original_sha256": "c41fd3f92f8d5d40596e05e1a576d2ff380ac4eac3652b9d0422b2a37a74c2f1",
+    "sha256": "c41fd3f92f8d5d40596e05e1a576d2ff380ac4eac3652b9d0422b2a37a74c2f1",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/verify_external_neural.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/verify_external_neural.py",
+    "original_sha256": "2f5cdfa00c9948289a26ac99d631c01fee4df6a687bc71d64644fe0ea87b968e",
+    "sha256": "2f5cdfa00c9948289a26ac99d631c01fee4df6a687bc71d64644fe0ea87b968e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_gate_mechanism_v0.1_20261029/verify_gate.py",
+    "source": "dcr_gate_mechanism_v0.1_20261029/verify_gate.py",
+    "original_sha256": "62ed6ea03e17c0fa2b2062734492f8344adbba0b1a88e7bc2b8a7184760dee8e",
+    "sha256": "62ed6ea03e17c0fa2b2062734492f8344adbba0b1a88e7bc2b8a7184760dee8e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/build_rankings.py",
+    "source": "dcr_model_input_v0.1_20261029/build_rankings.py",
+    "original_sha256": "8bb5c604b7deab41ccfc429719ef63fe7e1189ec85f9f9d82b7043a17a04df6e",
+    "sha256": "8bb5c604b7deab41ccfc429719ef63fe7e1189ec85f9f9d82b7043a17a04df6e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/config.py",
+    "source": "dcr_model_input_v0.1_20261029/config.py",
+    "original_sha256": "2f309eba41018237521d55eea6e1d97fa383d5b75eccdf2da94c08fe5457700d",
+    "sha256": "9ced86616f40d934b12d4eae15da64cd00c060ba4af7a063176b7005dcb4a649",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/freeze.py",
+    "source": "dcr_model_input_v0.1_20261029/freeze.py",
+    "original_sha256": "38f76f9720ae49a666e124aed8df8000b258c7a5f6abbdb3b24e840759e03759",
+    "sha256": "5ef7e08259105b8c1cc87347b51390fb86645e3d77e6cd7357fc2633f7aedd98",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/infer_cell.py",
+    "source": "dcr_model_input_v0.1_20261029/infer_cell.py",
+    "original_sha256": "cd107ea8495d132ac3a9039a0fb0f043fb656a05e5c5630c2d1438cc5a1bad95",
+    "sha256": "cd107ea8495d132ac3a9039a0fb0f043fb656a05e5c5630c2d1438cc5a1bad95",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/prepare_inputs.py",
+    "source": "dcr_model_input_v0.1_20261029/prepare_inputs.py",
+    "original_sha256": "6ac40a25cc865723da9e9fceff4261d5911144dd647c0f5033a5210c48dcd547",
+    "sha256": "6b7da95748a7f30ae6488b487c27884ad5e521a71022efc9ac597718bfaa6db5",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/run_pipeline.py",
+    "source": "dcr_model_input_v0.1_20261029/run_pipeline.py",
+    "original_sha256": "62fb9bd0068c29d77405419ec50448c532c641994dc17b499fc297731c3dff6f",
+    "sha256": "abc10865be04f8e9d0f62f2301396d40704b77fa860fc4fe506894cdcd4d556c",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/score.py",
+    "source": "dcr_model_input_v0.1_20261029/score.py",
+    "original_sha256": "cc1a280b65bf57c052377ef796872a41a88856ddd5566ad9e96d2d712481a55f",
+    "sha256": "cc1a280b65bf57c052377ef796872a41a88856ddd5566ad9e96d2d712481a55f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/test_cells.py",
+    "source": "dcr_model_input_v0.1_20261029/test_cells.py",
+    "original_sha256": "2c1d2d1c82d22598cbe25f99e6039e303fea494a46801b918beaeaac2661d8e1",
+    "sha256": "2c1d2d1c82d22598cbe25f99e6039e303fea494a46801b918beaeaac2661d8e1",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/test_scoring.py",
+    "source": "dcr_model_input_v0.1_20261029/test_scoring.py",
+    "original_sha256": "efe281975d6a5e53a3aadfaa9035d1b8f6e42aee5a96de8227b4b2d2bf715eb1",
+    "sha256": "cb76b4f2ef88c1f7f5c055bb59021695b791eddc3d291bbfce35934ec22eb3c2",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_model_input_v0.1_20261029/verify_factorial.py",
+    "source": "dcr_model_input_v0.1_20261029/verify_factorial.py",
+    "original_sha256": "f9af0d052dafb1c34a80dad0b412f3c4122b2b4ab90416c14fa7f058500c8729",
+    "sha256": "5d45f944dde159fc5bb95737c54265aa588bc85ec8bb4d1219f0c71de1615466",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/benchmark.py",
+    "source": "dcr_post_fusion_v0.1_20261029/benchmark.py",
+    "original_sha256": "218b75354021f4305221d4370a7868b54ec720efd58ad800889f9f415725374c",
+    "sha256": "95e66b9815e76af8155dea5bb7f599b3cdb5512f4a5687c0e434b3aab6ff4e82",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/check_fixed.py",
+    "source": "dcr_post_fusion_v0.1_20261029/check_fixed.py",
+    "original_sha256": "a4ff1428d81814d54a503e1e27874ec7bd236b29f37fdfa27340a0d602b0b330",
+    "sha256": "a4ff1428d81814d54a503e1e27874ec7bd236b29f37fdfa27340a0d602b0b330",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/describe_transitions.py",
+    "source": "dcr_post_fusion_v0.1_20261029/describe_transitions.py",
+    "original_sha256": "833d96cfa8dc7bfb957100e1bc8529fd3628cd512249d73016ec5c1bf3932dc5",
+    "sha256": "833d96cfa8dc7bfb957100e1bc8529fd3628cd512249d73016ec5c1bf3932dc5",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/export_point_models.py",
+    "source": "dcr_post_fusion_v0.1_20261029/export_point_models.py",
+    "original_sha256": "81c868f872c88bd7f17115737e15c422c7547860b7260a4bd7e9652a827bd832",
+    "sha256": "81c868f872c88bd7f17115737e15c422c7547860b7260a4bd7e9652a827bd832",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/fit_fold.py",
+    "source": "dcr_post_fusion_v0.1_20261029/fit_fold.py",
+    "original_sha256": "8e9b76f5fbf24acc9e1d43dec3bdf47bf1947383f00c00b2c629656095143cae",
+    "sha256": "8e9b76f5fbf24acc9e1d43dec3bdf47bf1947383f00c00b2c629656095143cae",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/freeze.py",
+    "source": "dcr_post_fusion_v0.1_20261029/freeze.py",
+    "original_sha256": "870adc36bc1b5c824841841b1620a74c84d7937ca09fc7e15cfddb65a5d44ebb",
+    "sha256": "870adc36bc1b5c824841841b1620a74c84d7937ca09fc7e15cfddb65a5d44ebb",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/paths.py",
+    "source": "dcr_post_fusion_v0.1_20261029/paths.py",
+    "original_sha256": "abfaa0e62cb97eb62ff13b1fe031f0cfea60b14ec6721a689ea7b069dfbebfd8",
+    "sha256": "abfaa0e62cb97eb62ff13b1fe031f0cfea60b14ec6721a689ea7b069dfbebfd8",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/post_math.py",
+    "source": "dcr_post_fusion_v0.1_20261029/post_math.py",
+    "original_sha256": "2b45dc737d8b6b95a79f5ca772b4cf371e28dc9d9e4fe70c3e8ff4d82198ec99",
+    "sha256": "2b45dc737d8b6b95a79f5ca772b4cf371e28dc9d9e4fe70c3e8ff4d82198ec99",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/prepare_features.py",
+    "source": "dcr_post_fusion_v0.1_20261029/prepare_features.py",
+    "original_sha256": "1b3ecfc957c532dd1cf9fa237ef715e2ccd8612f83a82264eddabcab3e366dd1",
+    "sha256": "1b3ecfc957c532dd1cf9fa237ef715e2ccd8612f83a82264eddabcab3e366dd1",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/prepare_labels.py",
+    "source": "dcr_post_fusion_v0.1_20261029/prepare_labels.py",
+    "original_sha256": "1f595a737794eb4cbb7145015dc7b71e5cfa135cc3b285c78691fd8b091ccc15",
+    "sha256": "1f595a737794eb4cbb7145015dc7b71e5cfa135cc3b285c78691fd8b091ccc15",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/run_production.py",
+    "source": "dcr_post_fusion_v0.1_20261029/run_production.py",
+    "original_sha256": "0233fd62bdaabe406d4e255d024924e8386c47d9bb93f4ec4ec8f9dcdd799115",
+    "sha256": "c7f6ad772757a49732e4447b241eea5c39c5a01bb10254dce36562e2171dd29c",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/score.py",
+    "source": "dcr_post_fusion_v0.1_20261029/score.py",
+    "original_sha256": "4c94b2d118eb53866d082753b7e61d28d99ed33dcefbfc8374c31af75f4432be",
+    "sha256": "4c94b2d118eb53866d082753b7e61d28d99ed33dcefbfc8374c31af75f4432be",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/seal_routes.py",
+    "source": "dcr_post_fusion_v0.1_20261029/seal_routes.py",
+    "original_sha256": "b8b81fa92b5225f5a96bf33ce6efe584697a4fb3c8dcb6637ceca443556248e0",
+    "sha256": "b8b81fa92b5225f5a96bf33ce6efe584697a4fb3c8dcb6637ceca443556248e0",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/test_post_math.py",
+    "source": "dcr_post_fusion_v0.1_20261029/test_post_math.py",
+    "original_sha256": "2dc23d970d8c85d7c01806fe2b645e30c7704ec09c91771e1096a926d8dabc65",
+    "sha256": "2dc23d970d8c85d7c01806fe2b645e30c7704ec09c91771e1096a926d8dabc65",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_fusion_v0.1_20261029/verify_post_fusion.py",
+    "source": "dcr_post_fusion_v0.1_20261029/verify_post_fusion.py",
+    "original_sha256": "ffaada91689c57e119a56f22e67f2942ad9562db157de30b2e486eac365bb9b9",
+    "sha256": "13bfb1cd817cb9abf68369ff7bd67982e1c485d7999769b80318a8bc5671ee94",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/benchmark.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/benchmark.py",
+    "original_sha256": "d57e41d059e0351fe20dce76411bc2f786e3ccd8a540b5de0d735b020c932f05",
+    "sha256": "3f2ce471d1bab38bd2eff7199b9ecea54efbdd64c4e7de06c5251f00cb2f8592",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/fit_fold.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/fit_fold.py",
+    "original_sha256": "eb80b9555d89b250c2724c5c84d4defee155a4abbb09db5c8677105c85175e7d",
+    "sha256": "eb80b9555d89b250c2724c5c84d4defee155a4abbb09db5c8677105c85175e7d",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/fixtures.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/fixtures.py",
+    "original_sha256": "6d84c706293835c02380e4aa02dc89bc209978aaef93eeee404e3cdb981867f3",
+    "sha256": "ee1a412d9abafaeb43fbd69eaf0bd31e41e4331c7237f9c2e45206ee17a62bab",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/freeze.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/freeze.py",
+    "original_sha256": "6789610c0a240e6b639ddc699681f73ce751c350807842f6542db476891a2f87",
+    "sha256": "af4540780d07d0e6566bf9fcb9f2464348f33280b48c95f65466b3cd8828ea79",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/math_core.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/math_core.py",
+    "original_sha256": "b958d29c2317f2776e507446515b41f626fa65083a1b7c85b0a567d592cfac26",
+    "sha256": "b958d29c2317f2776e507446515b41f626fa65083a1b7c85b0a567d592cfac26",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/paths.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/paths.py",
+    "original_sha256": "6b5d6154f317844ed7969df77d09b53d8630f7dba51e11cd704774ae19fedf21",
+    "sha256": "6b5d6154f317844ed7969df77d09b53d8630f7dba51e11cd704774ae19fedf21",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/run_production.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/run_production.py",
+    "original_sha256": "c775f32f0c2829307323cd26c72ab174f7f7d7bb7e6f9c9a34eea19309ac5257",
+    "sha256": "8f675263def157971ab5e37b29dc58cb035bb5f319c788b83bdb73be5343e60c",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/score.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/score.py",
+    "original_sha256": "8c772e60f04cbc3580b8ad0350932ba58ddf0b81b2572455a82fc389004663bf",
+    "sha256": "8c772e60f04cbc3580b8ad0350932ba58ddf0b81b2572455a82fc389004663bf",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_attribution_v0.1_20261029/verify_attribution.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/verify_attribution.py",
+    "original_sha256": "507236a92409b2bc93ab4a38cc52c6c192117f8afd9064e5a0ed44cff8c344ff",
+    "sha256": "76a2601c2c93377128ffb72f56036a506366159f149a029c31f8a523390efd6b",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/config.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/config.py",
+    "original_sha256": "054727e1c048aa0d43733e22d5f83d50304d4dfcca888403129e8136f000e819",
+    "sha256": "054727e1c048aa0d43733e22d5f83d50304d4dfcca888403129e8136f000e819",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/features.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/features.py",
+    "original_sha256": "dfdc841068dc35ca2acf3b0a1e0d394cf66304f7aed0680742ad16266ef6c2c1",
+    "sha256": "dfdc841068dc35ca2acf3b0a1e0d394cf66304f7aed0680742ad16266ef6c2c1",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/fit_fold.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/fit_fold.py",
+    "original_sha256": "6546e524c2ff0e535986c76e221b2980a0042df296b66d87ff90e1157d6f3508",
+    "sha256": "6546e524c2ff0e535986c76e221b2980a0042df296b66d87ff90e1157d6f3508",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/fit_transfer.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/fit_transfer.py",
+    "original_sha256": "f350a588b1eb10b1e126eb27636633878802216bd253885d38c1cb02273f8047",
+    "sha256": "f350a588b1eb10b1e126eb27636633878802216bd253885d38c1cb02273f8047",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/fixtures.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/fixtures.py",
+    "original_sha256": "d7691c02e83149a0bac87872447b3c9ec945ae4fd9192142d6d9c43a22d65b2f",
+    "sha256": "d7691c02e83149a0bac87872447b3c9ec945ae4fd9192142d6d9c43a22d65b2f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/freeze.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/freeze.py",
+    "original_sha256": "f1e486ae8836c987c7cc3fcc93955a2a9686fa42256ef2c92cae63b123349e54",
+    "sha256": "f1e486ae8836c987c7cc3fcc93955a2a9686fa42256ef2c92cae63b123349e54",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/run_pipeline.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/run_pipeline.py",
+    "original_sha256": "41a8536d69e15f11ddf6e15081d4c78f75226800c0f8b08d9fb5d87e65f001f9",
+    "sha256": "b03586507604e936bc3502632770e54c7ac0af808eba067a2b44cf0fabe01dba",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/score.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/score.py",
+    "original_sha256": "e5ae9ad8b8796b4ea5fb214c771a317a45bc47ab63395f681daf4b8dc8f43807",
+    "sha256": "e5ae9ad8b8796b4ea5fb214c771a317a45bc47ab63395f681daf4b8dc8f43807",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/seal.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/seal.py",
+    "original_sha256": "b2f8aeafb8d5d72829cb53b68a8d7fffe8a4ec7d57b8efb07415c689782acf76",
+    "sha256": "b2f8aeafb8d5d72829cb53b68a8d7fffe8a4ec7d57b8efb07415c689782acf76",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_matched_fusion_v0.1_20261029/verify_matched.py",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/verify_matched.py",
+    "original_sha256": "b1c1f12bdaabc96b5758429667373982a85c0f697036ff0dba622f21a63652ec",
+    "sha256": "0612ac9c4a749f873fa0687f7c18a6824f8c2c51f6813614bc4d38849e894aa1",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/apply_post.py",
+    "source": "dcr_post_g_external_v0.1_20261029/apply_post.py",
+    "original_sha256": "cd193ff7aa69a89da1892c1cbde8f8ca0844d0d5e8cb653fcfc7b82e7e35e341",
+    "sha256": "cd193ff7aa69a89da1892c1cbde8f8ca0844d0d5e8cb653fcfc7b82e7e35e341",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/fit_source.py",
+    "source": "dcr_post_g_external_v0.1_20261029/fit_source.py",
+    "original_sha256": "e48a47c478698ace57f1da1ab64e2d02d19cc51dea93a1a3ece6f02f378c7b5c",
+    "sha256": "e48a47c478698ace57f1da1ab64e2d02d19cc51dea93a1a3ece6f02f378c7b5c",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/freeze.py",
+    "source": "dcr_post_g_external_v0.1_20261029/freeze.py",
+    "original_sha256": "b06d1d525792792049805d39bff064c10ced30614673e5c1453020cde090269d",
+    "sha256": "b06d1d525792792049805d39bff064c10ced30614673e5c1453020cde090269d",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/metrics.py",
+    "source": "dcr_post_g_external_v0.1_20261029/metrics.py",
+    "original_sha256": "4eb838b9ef2cad571cdcd9b41dea18768ade7bc24c4ed75d44180b938619350d",
+    "sha256": "4eb838b9ef2cad571cdcd9b41dea18768ade7bc24c4ed75d44180b938619350d",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/neural.py",
+    "source": "dcr_post_g_external_v0.1_20261029/neural.py",
+    "original_sha256": "f4f10fd490a9e5178f867de06ba8e3587ece3b2fbc37e4af0e31e3deb5f5435f",
+    "sha256": "f4d82a46349940940dfca29ec50d0a1ecda254cba560e5ae5aa098bb23c46ee2",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/paths.py",
+    "source": "dcr_post_g_external_v0.1_20261029/paths.py",
+    "original_sha256": "fd1481c96be26becea5cb0a5ee60e893d0f64af1e8e4784eba66443560419839",
+    "sha256": "fd1481c96be26becea5cb0a5ee60e893d0f64af1e8e4784eba66443560419839",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/prepare_inputs.py",
+    "source": "dcr_post_g_external_v0.1_20261029/prepare_inputs.py",
+    "original_sha256": "c244ee36aad34de068715a7a436fcf71dc1eaa47df9285cc454d7cca4fcd60da",
+    "sha256": "c244ee36aad34de068715a7a436fcf71dc1eaa47df9285cc454d7cca4fcd60da",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/prepare_neural.py",
+    "source": "dcr_post_g_external_v0.1_20261029/prepare_neural.py",
+    "original_sha256": "cc9eeb91e73d907a4fa54421d1fcb592bca3f3bbdecbeb81b7a1a8c54cd22bb5",
+    "sha256": "cc9eeb91e73d907a4fa54421d1fcb592bca3f3bbdecbeb81b7a1a8c54cd22bb5",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/retrieve.py",
+    "source": "dcr_post_g_external_v0.1_20261029/retrieve.py",
+    "original_sha256": "54afb8cfea8f7585a28b974f54b15d60351a55892ad6cc8e30bb5c64e71a8232",
+    "sha256": "54afb8cfea8f7585a28b974f54b15d60351a55892ad6cc8e30bb5c64e71a8232",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/run_pipeline.py",
+    "source": "dcr_post_g_external_v0.1_20261029/run_pipeline.py",
+    "original_sha256": "51c58867bea72e59b6c4ba8dd455dff85e3a622e811b72bcb67341bb9f018b1b",
+    "sha256": "9b7024f35e73ec69728b25543ff1f6a14aeedf236c9ae7739e9e1a5331026f78",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/score.py",
+    "source": "dcr_post_g_external_v0.1_20261029/score.py",
+    "original_sha256": "8f9df6654d52e4b2a9370ac16e5b0cc8128bd789cb5cea68f2da04e11b7b37c5",
+    "sha256": "8f9df6654d52e4b2a9370ac16e5b0cc8128bd789cb5cea68f2da04e11b7b37c5",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/test_pipeline.py",
+    "source": "dcr_post_g_external_v0.1_20261029/test_pipeline.py",
+    "original_sha256": "47084d43bf85091bdfdd528c398f055e89caccccee941b9365d1dcc6a5a355e9",
+    "sha256": "47084d43bf85091bdfdd528c398f055e89caccccee941b9365d1dcc6a5a355e9",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_post_g_external_v0.1_20261029/verify_external.py",
+    "source": "dcr_post_g_external_v0.1_20261029/verify_external.py",
+    "original_sha256": "2159f6e947ef75d289f7876f5ac2cd62ba80ee2c766168421cdc16a85792b601",
+    "sha256": "c330dfc4a86fea88df153ebcce2f54fadc3dd2e5589c74086455b336b57756cf",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/config.py",
+    "source": "dcr_input_ifir_v0.1_20261029/config.py",
+    "original_sha256": "58a36745a6c2995ebc536efbcfc7d08ef51eaa9f556c7db56ccfd491f435aee6",
+    "sha256": "4fecbf2e660f1d6af99243e31e5b516de2e127636f6a67361094a1e0aada873b",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/feature_kernel.py",
+    "source": "dcr_input_ifir_v0.1_20261029/feature_kernel.py",
+    "original_sha256": "22d4c1bf557782b62b36114137fe4952ee7892cd397cd236d66bf00686521787",
+    "sha256": "22d4c1bf557782b62b36114137fe4952ee7892cd397cd236d66bf00686521787",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/fixtures.py",
+    "source": "dcr_input_ifir_v0.1_20261029/fixtures.py",
+    "original_sha256": "62012372e065f1411b3fe43633071824ac744513ddb3bb1af987d1585c059b2e",
+    "sha256": "62012372e065f1411b3fe43633071824ac744513ddb3bb1af987d1585c059b2e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/freeze.py",
+    "source": "dcr_input_ifir_v0.1_20261029/freeze.py",
+    "original_sha256": "7598e8d494ed24e829f8b70692e8d231fccf7c6d013c9491aca35cd6ae8c8e5a",
+    "sha256": "d3467224e70dc408557e09f90c579e68d8e3cc0859997be8127030c0f1c51ddb",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/predict.py",
+    "source": "dcr_input_ifir_v0.1_20261029/predict.py",
+    "original_sha256": "68f1f2547f7617af5e82ff44b5d4ab923207fc3577fa92d4dcdd5c2be646b07f",
+    "sha256": "68f1f2547f7617af5e82ff44b5d4ab923207fc3577fa92d4dcdd5c2be646b07f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/prepare.py",
+    "source": "dcr_input_ifir_v0.1_20261029/prepare.py",
+    "original_sha256": "c57ccbf8d842c1c47154f4c939c7cd3088d462620343cd651cf719cbe5d01441",
+    "sha256": "59acc538c9e380d90c460e6e2f9e3409ff6ddd9b20c91670ce44e0d47c98c762",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/run_pipeline.py",
+    "source": "dcr_input_ifir_v0.1_20261029/run_pipeline.py",
+    "original_sha256": "f7d99316f380a893831f5b2f98f918687af5fd3018b98ce3b0bc56fc7d9efc81",
+    "sha256": "06eb6b489049b8bffd0a6da1d42b59f93af2c03f4487728ef1f96e35c8edea91",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/score.py",
+    "source": "dcr_input_ifir_v0.1_20261029/score.py",
+    "original_sha256": "9603078d842328fc507e049de953a5c27854144346eb1c8538e07b845b5f817f",
+    "sha256": "9603078d842328fc507e049de953a5c27854144346eb1c8538e07b845b5f817f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_input_ifir_v0.1_20261029/verify_ifir.py",
+    "source": "dcr_input_ifir_v0.1_20261029/verify_ifir.py",
+    "original_sha256": "63b85201e6cf366e72081682763ea90cb7c1769c40399c4f611240bd6cd1b856",
+    "sha256": "d7522fafe98048410fa9649b6a42374d85c526f70c0dcfabe40707c644bb963b",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/config.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/config.py",
+    "original_sha256": "47d0e1468800ddac694b9d15d90230912ff5338d9c4d5e6bd7720599bab5322e",
+    "sha256": "86ac36ab66981670b0974ceaff1ce35f66615509b4f500dd4295f512698c182c",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/fixtures.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/fixtures.py",
+    "original_sha256": "83f9e6270266f5438d407d3c115dd3d76356be6e0829411edbca9ee5ae4d4507",
+    "sha256": "83f9e6270266f5438d407d3c115dd3d76356be6e0829411edbca9ee5ae4d4507",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/freeze.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/freeze.py",
+    "original_sha256": "2bc013026e9200d7ac2bb5645061079b332ee962febfb7d19d9fbfc76836fb0f",
+    "sha256": "2bc013026e9200d7ac2bb5645061079b332ee962febfb7d19d9fbfc76836fb0f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/infer.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/infer.py",
+    "original_sha256": "4ec3f2a62e690fed5f292d74731e55929cb1b42a93136d934b176c128b011481",
+    "sha256": "4ec3f2a62e690fed5f292d74731e55929cb1b42a93136d934b176c128b011481",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/model_contract.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/model_contract.py",
+    "original_sha256": "1ae5b6e0c1ae5fd792d9c740a2f2646b9505dd2f3cbaa2c213cf723233912f9e",
+    "sha256": "1ae5b6e0c1ae5fd792d9c740a2f2646b9505dd2f3cbaa2c213cf723233912f9e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/pipeline.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/pipeline.py",
+    "original_sha256": "02314cc820da93501909a1c9069ab0934c9e7d446ca04d5798fbe45bd34823f2",
+    "sha256": "17a908028888ac28eae7665ac6c445a8dbae21d8dae66b0faa3c157ac68b33c7",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/prepare.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/prepare.py",
+    "original_sha256": "9845831e2af34c232770fe662cad50bf9043e9d33a71bd8db84f54c15254019d",
+    "sha256": "5f59621a7a5283584f00fc523d8240da8fff4011d8e8b8ad41568341432fb802",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/rank.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/rank.py",
+    "original_sha256": "79af6a8d309b08d84a4f8d841d0fadbf413812f2ea167df7c39e09facf807829",
+    "sha256": "79af6a8d309b08d84a4f8d841d0fadbf413812f2ea167df7c39e09facf807829",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/resume.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/resume.py",
+    "original_sha256": "9be6150bd1bdd41f86af0ffae68d54128ddca0cbd08821824e4143727fd3dd07",
+    "sha256": "65190f9e4866f3134e03aff355b38913ba4004d0696529601628e93cabe05326",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/score.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/score.py",
+    "original_sha256": "8a5e26a2d2fc891d00ae68e9e12e3580663eb878f57919196d237b29e7d828a3",
+    "sha256": "8a5e26a2d2fc891d00ae68e9e12e3580663eb878f57919196d237b29e7d828a3",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_independent_transfer_v0.1_20261102/verify.py",
+    "source": "dcr_independent_transfer_v0.1_20261102/verify.py",
+    "original_sha256": "740219baf94592909274bb6f8e4e4052cd396b21954a447ed9dd1b67f9f03ce5",
+    "sha256": "cc858ffb3bf88ede4114327cb8d2ffe01c02cb2685508c8597cc0ae67e1fbd27",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/build_rankings.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/build_rankings.py",
+    "original_sha256": "c7a5c1965fc181db65cde7b46ff7cfa54188b94445fb6e690797e6d935cee4e2",
+    "sha256": "c7a5c1965fc181db65cde7b46ff7cfa54188b94445fb6e690797e6d935cee4e2",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/config.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/config.py",
+    "original_sha256": "d6175851463f04847f840bcbc80fe2c52a2710fcbf70fc5d9182f36f70e64a89",
+    "sha256": "50a2457f638c8f0a333e0171655a8c728e89d84e4ac2c405aa133771336f1ea5",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/freeze.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/freeze.py",
+    "original_sha256": "658c3e22bfaa3700cb15afd6dd0176f17ac785ff6845fbe8519555d435e1227c",
+    "sha256": "1ebfa4feb07dd9c98387047ea316bb7fb5252645d18b80e8b70d8032fe530825",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/infer_cell.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/infer_cell.py",
+    "original_sha256": "977743cb8a51656b92dedde41cf332d0e82eeece46e4a95b9ea7c619bd46f9e6",
+    "sha256": "977743cb8a51656b92dedde41cf332d0e82eeece46e4a95b9ea7c619bd46f9e6",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/model_contract.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/model_contract.py",
+    "original_sha256": "1ae5b6e0c1ae5fd792d9c740a2f2646b9505dd2f3cbaa2c213cf723233912f9e",
+    "sha256": "1ae5b6e0c1ae5fd792d9c740a2f2646b9505dd2f3cbaa2c213cf723233912f9e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/prepare_candidates.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/prepare_candidates.py",
+    "original_sha256": "184314d70ce2867fe40b2d2c7c352ba0551d36d130811913b0b815e9950196a8",
+    "sha256": "9aef0bf8c0740460772f61e6d69c28b5489c57539134b5f0d0d21898f2f41420",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/prepare_head.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/prepare_head.py",
+    "original_sha256": "85426b458fd3f653370f067431d90feb66a8536d8afa94046695f68f4c11dd18",
+    "sha256": "85426b458fd3f653370f067431d90feb66a8536d8afa94046695f68f4c11dd18",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/prepare_prefixes.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/prepare_prefixes.py",
+    "original_sha256": "217aa1b62101d0a17e8ab47c770e1651529b3edb5513760e9dbc56d371db9481",
+    "sha256": "f90e28939d4a63cee6178ed6c26f35b98d5a7098373082210d6eb13764f07765",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/run_pipeline.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/run_pipeline.py",
+    "original_sha256": "c88d0ccc296c76fda5c0dafd8da1d1bfed52aba42742527f2b65302d4a260252",
+    "sha256": "450609814f777b7c6c21fcb9ed7e3de0b4729f299f5ee1ce6609b47dba1fc9d7",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/score.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/score.py",
+    "original_sha256": "0398f49128367037a13bcb0cdd635bfcff01c2ab2ae30921c84a39c14f466f6f",
+    "sha256": "0398f49128367037a13bcb0cdd635bfcff01c2ab2ae30921c84a39c14f466f6f",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_topic_retrieval_v0.1_20261031/test_scoring.py",
+    "source": "dcr_topic_retrieval_v0.1_20261031/test_scoring.py",
+    "original_sha256": "efe281975d6a5e53a3aadfaa9035d1b8f6e42aee5a96de8227b4b2d2bf715eb1",
+    "sha256": "cb76b4f2ef88c1f7f5c055bb59021695b791eddc3d291bbfce35934ec22eb3c2",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_request_change_moderation_v0.1_20261030/analyze.py",
+    "source": "dcr_request_change_moderation_v0.1_20261030/analyze.py",
+    "original_sha256": "558de70d93c3b9e3d77e569e32cf79ce71602161cf76f39b134124ee1bf15d05",
+    "sha256": "558de70d93c3b9e3d77e569e32cf79ce71602161cf76f39b134124ee1bf15d05",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_request_change_moderation_v0.1_20261030/features.py",
+    "source": "dcr_request_change_moderation_v0.1_20261030/features.py",
+    "original_sha256": "e507e6299d14f0fc1a6ab7074e7832a7fc8212b6d15e80f027f81d67719eb945",
+    "sha256": "e507e6299d14f0fc1a6ab7074e7832a7fc8212b6d15e80f027f81d67719eb945",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_request_change_moderation_v0.1_20261030/freeze.py",
+    "source": "dcr_request_change_moderation_v0.1_20261030/freeze.py",
+    "original_sha256": "838c8d1ba68da249a4c7719d08ee62b0d2115b65e13ea09a3e45fe6505ee2593",
+    "sha256": "838c8d1ba68da249a4c7719d08ee62b0d2115b65e13ea09a3e45fe6505ee2593",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_request_change_moderation_v0.1_20261030/ifir_analysis.py",
+    "source": "dcr_request_change_moderation_v0.1_20261030/ifir_analysis.py",
+    "original_sha256": "50aca836e53f8f4a04afda1c03478c02ab3840b2a13a94933742bc05882adf60",
+    "sha256": "c661c23ae1ec75ad8ec9b94a590c5cb0523a1a725c1e0d1de17bad829a0dc794",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_null_k10_v0.1_20261031/freeze.py",
+    "source": "dcr_fusion_null_k10_v0.1_20261031/freeze.py",
+    "original_sha256": "017d7044c8e53ae65107a162c216cb1e45b6104b5acfd7772114d55056e0c50d",
+    "sha256": "017d7044c8e53ae65107a162c216cb1e45b6104b5acfd7772114d55056e0c50d",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_null_k10_v0.1_20261031/run_null_k10.py",
+    "source": "dcr_fusion_null_k10_v0.1_20261031/run_null_k10.py",
+    "original_sha256": "97cd3a2dbf868ab0f1b32706c91fc1944fab3a2a7d068ce9387b91ee96f1771d",
+    "sha256": "424d53f0a4ee460f91e764cedf3ac0a88e6f18a3485a76cc41a8612c1567617a",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_fusion_null_k10_v0.1_20261031/run_pipeline.py",
+    "source": "dcr_fusion_null_k10_v0.1_20261031/run_pipeline.py",
+    "original_sha256": "574a0081e70e7d6341ff5ce707b6aaf96751dd5b2ca0918b057ef82ad7245d61",
+    "sha256": "574a0081e70e7d6341ff5ce707b6aaf96751dd5b2ca0918b057ef82ad7245d61",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/config.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/config.py",
+    "original_sha256": "c491a10dacfc955aaa06fe6556ed327ba32435bbbd18083ba727dd2f415b7153",
+    "sha256": "7cc0fdd8abeadbfb6fd4d392b2d5bba206f64834847c3273df382b8ae7f16ae1",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/fit.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/fit.py",
+    "original_sha256": "98f8541d9277d104f005afd3f2583f35b5dc5b5742d17d74967f23b417e175a9",
+    "sha256": "98f8541d9277d104f005afd3f2583f35b5dc5b5742d17d74967f23b417e175a9",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/fixtures.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/fixtures.py",
+    "original_sha256": "096cba659a22c9ad6c6304b08749c4eae3bdb6fc6c834be84bcd226dcbc9dd0b",
+    "sha256": "096cba659a22c9ad6c6304b08749c4eae3bdb6fc6c834be84bcd226dcbc9dd0b",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/freeze.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/freeze.py",
+    "original_sha256": "afe1490fd91165ad463cf9a8a691d65c2faa34948e91ebcd7577c39ed113eda5",
+    "sha256": "b46a614cc4fc45ce5763c0bfde1b51e7a980a25359412c8813ee2ae1c4d974d7",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/predict.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/predict.py",
+    "original_sha256": "1daa17a9b30b6d7e0b42a864583bfab3fc008bbdb58ae586622a5a326872b617",
+    "sha256": "1daa17a9b30b6d7e0b42a864583bfab3fc008bbdb58ae586622a5a326872b617",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/repair_verifier.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/repair_verifier.py",
+    "original_sha256": "dc24e8cc46ee9799fa87fc982cd2126ef7b97449d4e9e66f94b54e45717c5984",
+    "sha256": "b66a4ad549eafdac7ade654fd86014252a6e9415ef2562e28020c18df523464e",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/run_pipeline.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/run_pipeline.py",
+    "original_sha256": "bbe7070583dd240911b60d4515605fd24ea0bfdc16c12c0b29523862c4856048",
+    "sha256": "bbe7070583dd240911b60d4515605fd24ea0bfdc16c12c0b29523862c4856048",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/score.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/score.py",
+    "original_sha256": "9311bb022fa27d2b617372765d8b30dfb8d926da8f0c5de50b51190183c7caf5",
+    "sha256": "9311bb022fa27d2b617372765d8b30dfb8d926da8f0c5de50b51190183c7caf5",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "experiments/dcr_qwen_only_control_v0.1_20261103/verify.py",
+    "source": "dcr_qwen_only_control_v0.1_20261103/verify.py",
+    "original_sha256": "b689db00e49d583aece95a4382d494ff294b94a8fcfe79daf2b7d4042a369c45",
+    "sha256": "b689db00e49d583aece95a4382d494ff294b94a8fcfe79daf2b7d4042a369c45",
+    "category": "archived_experiment_source",
+    "transformation": "Machine-specific home paths generalized. Scientific numeric constants and code structure retained."
+  },
+  {
+    "path": "kernels/post_math.py",
+    "source": "dcr_post_fusion_v0.1_20261029/post_math.py",
+    "sha256": "2b45dc737d8b6b95a79f5ca772b4cf371e28dc9d9e4fe70c3e8ff4d82198ec99",
+    "category": "numerical_kernel",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "kernels/attribution_math.py",
+    "source": "dcr_fusion_attribution_v0.1_20261029/math_core.py",
+    "sha256": "b958d29c2317f2776e507446515b41f626fa65083a1b7c85b0a567d592cfac26",
+    "category": "numerical_kernel",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/source_input.csv.gz",
+    "source": "dcr_model_input_v0.1_20261029/per_query.csv.gz",
+    "sha256": "9f44009816f935a25a01871c0dfcd0caa2ecac96a76d32af7d1f4fd7d3dbfb62",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/source_fusion.csv.gz",
+    "source": "dcr_post_fusion_v0.1_20261029/per_query.csv.gz",
+    "sha256": "8865e9889843db5b7a0a047aa6ab55b279c74bc7bd6967822fc510d8f3e198ed",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/source_attribution.csv.gz",
+    "source": "dcr_fusion_attribution_v0.1_20261029/per_query.csv.gz",
+    "sha256": "ac992c77d798dc9228a6a549545d08623960a2e0be99dfebaefc1dc7531b476e",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/source_input_matched.csv.gz",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/per_query.csv.gz",
+    "sha256": "dfbed627af736f38d2974f735882243ca4aedc3ac73a65f269aa730a29201e48",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/original_transfer.csv.gz",
+    "source": "dcr_post_g_external_v0.1_20261029/per_query.csv.gz",
+    "sha256": "4cec91a2155e53a5953d5d595cf4d60639b7040c33735b322f5e3af9707c5d3c",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/input_transfer.csv.gz",
+    "source": "dcr_input_ifir_v0.1_20261029/per_query.csv.gz",
+    "sha256": "685a38df5b2d317d8a700c5afabd8c1acfbc09c4943d2b331f41684e66cec763",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/q7_targets.jsonl.gz",
+    "source": "dcr_qwen_only_control_v0.1_20261103/per_query_metrics.jsonl.gz",
+    "sha256": "5a4073401bbb74e344bc39dca57a32acdc2d6d6b65daa3ea2fb3edff96872190",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/per_query/cds.jsonl.gz",
+    "source": "dcr_independent_transfer_v0.1_20261102/results/per_query_metrics.jsonl.gz",
+    "sha256": "e0b16ad06afa004019582135b8faf2d320fba91f71691533815e8091710eab7a",
+    "category": "derived_per_query_metrics",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/summaries/source_input.json",
+    "source": "dcr_model_input_v0.1_20261029/summary.json",
+    "original_sha256": "2895cb2b15a88f6cbf5ae64d0f08f0922683e9f799b8f08c043742ae3a5d082d",
+    "sha256": "2895cb2b15a88f6cbf5ae64d0f08f0922683e9f799b8f08c043742ae3a5d082d",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/source_fusion.json",
+    "source": "dcr_post_fusion_v0.1_20261029/summary.json",
+    "original_sha256": "3eeab1b0105f685b6425996e3794e951a5a9ef6a58d5735dbcf48f2a6ce7110d",
+    "sha256": "3eeab1b0105f685b6425996e3794e951a5a9ef6a58d5735dbcf48f2a6ce7110d",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/source_attribution.json",
+    "source": "dcr_fusion_attribution_v0.1_20261029/summary.json",
+    "original_sha256": "6020a189560696f1fa9633b699fb6f6f41806ba64569a892367ae15bad18754a",
+    "sha256": "6020a189560696f1fa9633b699fb6f6f41806ba64569a892367ae15bad18754a",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/source_input_matched.json",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/summary.json",
+    "original_sha256": "6e482ed326bbf05ced0dd15cd12d849dafd03dc38cf9df500a7b5d1dd1bbb9b6",
+    "sha256": "6e482ed326bbf05ced0dd15cd12d849dafd03dc38cf9df500a7b5d1dd1bbb9b6",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/original_transfer.json",
+    "source": "dcr_post_g_external_v0.1_20261029/summary.json",
+    "original_sha256": "60b9193a6ae6eaa18d94de2da9d01784217167acad1f56a64f8122db37a4bd0b",
+    "sha256": "60b9193a6ae6eaa18d94de2da9d01784217167acad1f56a64f8122db37a4bd0b",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/input_transfer.json",
+    "source": "dcr_input_ifir_v0.1_20261029/summary.json",
+    "original_sha256": "94dc717ce350c9197c786198e1485f1dc455633d112ce88ab93d46d14dd71fbd",
+    "sha256": "94dc717ce350c9197c786198e1485f1dc455633d112ce88ab93d46d14dd71fbd",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/q7_targets.json",
+    "source": "dcr_qwen_only_control_v0.1_20261103/summary.json",
+    "original_sha256": "b60509b7857c12c31a370d550ab2c5b2b14783f8c2730e80d8e6706ccd948879",
+    "sha256": "b60509b7857c12c31a370d550ab2c5b2b14783f8c2730e80d8e6706ccd948879",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/summaries/cds.json",
+    "source": "dcr_independent_transfer_v0.1_20261102/results/summary.json",
+    "original_sha256": "2c9b00cb7b1a152743280dcda996909eb5a34e1d3349fc646ebea6f690184fb7",
+    "sha256": "2c9b00cb7b1a152743280dcda996909eb5a34e1d3349fc646ebea6f690184fb7",
+    "category": "archived_summary",
+    "transformation": "JSON serialization and generic home paths. Numeric values retained."
+  },
+  {
+    "path": "data/arrays/source_attribution_metrics_draws.npz",
+    "source": "dcr_fusion_attribution_v0.1_20261029/metrics_draws.npz",
+    "sha256": "65aad2aa08eab8c590e9e62930c9e162e2696370572417473178d00337fca2ac",
+    "category": "derived_numpy_array",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/arrays/source_attribution_point_orders.npz",
+    "source": "dcr_fusion_attribution_v0.1_20261029/point_orders.npz",
+    "sha256": "f8bf3c4c6e0bc11dee5b7933e2bc6f43ffa93d5b9ed5426b7456f205c6c80807",
+    "category": "derived_numpy_array",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/arrays/source_input_matched_metrics_draws.npz",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/metrics_draws.npz",
+    "sha256": "685fe957616251994fe7b912ef42d5ac43c499df19d82a371beeea7f2932ec29",
+    "category": "derived_numpy_array",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/arrays/source_input_matched_point_orders.npz",
+    "source": "dcr_input_matched_fusion_v0.1_20261029/point_orders.npz",
+    "sha256": "55808c1224f49c2b638e36287ac9da07ef9483c44846e97752a4f31674255fc3",
+    "category": "derived_numpy_array",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/cds/bootstrap_arrays.npz",
+    "source": "dcr_independent_transfer_v0.1_20261102/results/bootstrap_arrays.npz",
+    "sha256": "817a838ea940af9b8401c1c3491c1b37b799bc90dd5fb27efbf684278cd69748",
+    "category": "derived_CDS_artifact",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/cds/features.npz",
+    "source": "dcr_independent_transfer_v0.1_20261102/results/features.npz",
+    "sha256": "82be477e7d03635292931a4c89b7552ba08a4f7751a252248b27013bb78122ba",
+    "category": "derived_CDS_artifact",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/cds/rankings.jsonl.gz",
+    "source": "dcr_independent_transfer_v0.1_20261102/results/rankings.jsonl.gz",
+    "sha256": "1c2e877e826fd5819c02c59a22d9c3eb3da333c006f6aed7b9359f37d26f160a",
+    "category": "derived_CDS_artifact",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/q7_rankings/fiqa_rankings.jsonl.gz",
+    "source": "dcr_qwen_only_control_v0.1_20261103/targets/fiqa_rankings.jsonl.gz",
+    "sha256": "f4d6985ba63a899f64feb6bafeb919ca5933a811588f8a8e1a442b7bb94c7365",
+    "category": "derived_Q7_ranking",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/q7_rankings/nfcorpus_rankings.jsonl.gz",
+    "source": "dcr_qwen_only_control_v0.1_20261103/targets/nfcorpus_rankings.jsonl.gz",
+    "sha256": "d33f3a621d40acbd75e3550d0dd232d9948180ab6f90ec8cfa053d7df0eba6a6",
+    "category": "derived_Q7_ranking",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "data/q7_rankings/cds_rankings.jsonl.gz",
+    "source": "dcr_qwen_only_control_v0.1_20261103/targets/cds_rankings.jsonl.gz",
+    "sha256": "569f27fa34abb9faf25ea0b8d6c67cf3fa5e5ae97525be92f76c265d2c6422f3",
+    "category": "derived_Q7_ranking",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "figures/source_data/fig1_input_effects_and_fusion.json",
+    "source": "manuscript_figure_sources/fig1_input_effects_and_fusion.json",
+    "sha256": "d16868dd29e30d1fec218ed440fe347f2a5c0b2215a4a9b98d42946b07e3f4ad",
+    "category": "figure_source_data",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "figures/source_data/fig2_cross_collection.json",
+    "source": "manuscript_figure_sources/fig2_cross_collection.json",
+    "sha256": "53b732c529eff9cec5e1312092c696bf308feb55c67b4d145073953d2c2f211c",
+    "category": "figure_source_data",
+    "transformation": "byte-identical"
+  },
+  {
+    "path": "figures/draw_figures.py",
+    "source": "manuscript_figure_sources/draw_figures.py",
+    "original_sha256": "84a4f4a40eb45eca2acd6f46978b6b99b8a9a99cd08dff9d58e77914c52f93c5",
+    "sha256": "64f988da004434581942daa128b52a47262c0287e4736a8460de388e32c3bb6f",
+    "category": "figure_code",
+    "transformation": "Removed local skill import and alignment-auditor call, retained in-script geometry checks, placed generated figures under rendered/."
+  }
+]

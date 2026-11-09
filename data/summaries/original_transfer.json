@@ -1,0 +1,333 @@
+{
+  "datasets": {
+    "fiqa": {
+      "queries": 1718,
+      "bases": 639,
+      "reports_pct": {
+        "MiniLM": {
+          "P1": 30.558789289871946,
+          "nDCG20": 28.06501606287651,
+          "MRR20": 39.58015029117263,
+          "R10": 28.160753216548777
+        },
+        "fixed_Qwen20": {
+          "P1": 36.49592549476135,
+          "nDCG20": 30.725011046240642,
+          "MRR20": 45.004423899428346,
+          "R10": 31.472657293462795
+        },
+        "Post_G": {
+          "P1": 35.50640279394645,
+          "nDCG20": 30.44946387774671,
+          "MRR20": 44.350801797174114,
+          "R10": 31.510722965987142
+        }
+      },
+      "level_reports": {
+        "1": {
+          "queries": 639,
+          "reports": {
+            "MiniLM": {
+              "P1": 36.46322378716745,
+              "nDCG20": 28.528458137810397,
+              "MRR20": 45.76983755311202,
+              "R10": 25.918129045447948
+            },
+            "fixed_Qwen20": {
+              "P1": 44.60093896713615,
+              "nDCG20": 31.578167795744815,
+              "MRR20": 52.46216405184923,
+              "R10": 28.999844669083892
+            },
+            "Post_G": {
+              "P1": 43.66197183098591,
+              "nDCG20": 31.315512356429277,
+              "MRR20": 51.78616925026757,
+              "R10": 29.012016465293243
+            }
+          }
+        },
+        "2": {
+          "queries": 576,
+          "reports": {
+            "MiniLM": {
+              "P1": 28.125,
+              "nDCG20": 27.503694866281148,
+              "MRR20": 37.445374617475366,
+              "R10": 28.389477035310367
+            },
+            "fixed_Qwen20": {
+              "P1": 34.54861111111111,
+              "nDCG20": 30.575230919050238,
+              "MRR20": 43.69451832265864,
+              "R10": 32.01195554060138
+            },
+            "Post_G": {
+              "P1": 34.375,
+              "nDCG20": 30.5639800537449,
+              "MRR20": 43.51862746968445,
+              "R10": 31.997487948008786
+            }
+          }
+        },
+        "3": {
+          "queries": 503,
+          "reports": {
+            "MiniLM": {
+              "P1": 25.844930417495032,
+              "nDCG20": 28.119054876705878,
+              "MRR20": 34.161503427694214,
+              "R10": 30.74781469910694
+            },
+            "fixed_Qwen20": {
+              "P1": 28.429423459244536,
+              "nDCG20": 29.812697309319176,
+              "MRR20": 37.03028802432381,
+              "R10": 33.996497207232785
+            },
+            "Post_G": {
+              "P1": 26.44135188866799,
+              "nDCG20": 29.21811935438065,
+              "MRR20": 35.85802368605549,
+              "R10": 34.12761526081605
+            }
+          }
+        }
+      },
+      "coverage": {
+        "BM25_top100": {
+          "query_mean_positive_document_recall_pct": 39.13221809548577,
+          "queries_with_positive": 1164.0,
+          "query_positive_hit_pct": 67.75320139697322,
+          "positive_documents_retrieved": 2245,
+          "known_positive_documents": 6088
+        },
+        "MiniLM_top20": {
+          "query_mean_positive_document_recall_pct": 32.98264953250044,
+          "queries_with_positive": 1057.0,
+          "query_positive_hit_pct": 61.525029103608844,
+          "positive_documents_retrieved": 1852,
+          "known_positive_documents": 6088
+        }
+      },
+      "rescued": 43,
+      "new_losses": 60,
+      "net_correct": -17
+    },
+    "nfcorpus": {
+      "queries": 86,
+      "bases": 86,
+      "reports_pct": {
+        "MiniLM": {
+          "P1": 34.883720930232556,
+          "nDCG20": 39.154803535083026,
+          "MRR20": 45.00302763811657,
+          "R10": 41.370431893687694
+        },
+        "fixed_Qwen20": {
+          "P1": 43.02325581395349,
+          "nDCG20": 44.08414844442145,
+          "MRR20": 52.29839927514347,
+          "R10": 47.465393133997786
+        },
+        "Post_G": {
+          "P1": 44.18604651162791,
+          "nDCG20": 44.17238726571566,
+          "MRR20": 52.772324574650156,
+          "R10": 47.17469545957918
+        }
+      },
+      "level_reports": {
+        "1": {
+          "queries": 86,
+          "reports": {
+            "MiniLM": {
+              "P1": 34.883720930232556,
+              "nDCG20": 39.154803535083026,
+              "MRR20": 45.00302763811657,
+              "R10": 41.370431893687694
+            },
+            "fixed_Qwen20": {
+              "P1": 43.02325581395349,
+              "nDCG20": 44.08414844442145,
+              "MRR20": 52.29839927514347,
+              "R10": 47.465393133997786
+            },
+            "Post_G": {
+              "P1": 44.18604651162791,
+              "nDCG20": 44.17238726571566,
+              "MRR20": 52.772324574650156,
+              "R10": 47.17469545957918
+            }
+          }
+        }
+      },
+      "coverage": {
+        "BM25_top100": {
+          "query_mean_positive_document_recall_pct": 56.04235880398671,
+          "queries_with_positive": 64.0,
+          "query_positive_hit_pct": 74.4186046511628,
+          "positive_documents_retrieved": 141,
+          "known_positive_documents": 242
+        },
+        "MiniLM_top20": {
+          "query_mean_positive_document_recall_pct": 49.40337763012182,
+          "queries_with_positive": 62.0,
+          "query_positive_hit_pct": 72.09302325581395,
+          "positive_documents_retrieved": 121,
+          "known_positive_documents": 242
+        }
+      },
+      "rescued": 2,
+      "new_losses": 1,
+      "net_correct": 1
+    }
+  },
+  "paired_bootstrap": [
+    {
+      "dataset": "fiqa",
+      "metric": "P1",
+      "primary": false,
+      "difference_pp": -0.989522700814901,
+      "ci_low_pp": -2.2405863695510733,
+      "ci_high_pp": 0.28985927569857756,
+      "draws": 10000
+    },
+    {
+      "dataset": "fiqa",
+      "metric": "nDCG20",
+      "primary": false,
+      "difference_pp": -0.2755471684939381,
+      "ci_low_pp": -0.5726427746592272,
+      "ci_high_pp": 0.020607190326934498,
+      "draws": 10000
+    },
+    {
+      "dataset": "fiqa",
+      "metric": "MRR20",
+      "primary": false,
+      "difference_pp": -0.653622102254233,
+      "ci_low_pp": -1.3693184674199788,
+      "ci_high_pp": 0.06928313380490742,
+      "draws": 10000
+    },
+    {
+      "dataset": "fiqa",
+      "metric": "R10",
+      "primary": false,
+      "difference_pp": 0.03806567252434538,
+      "ci_low_pp": -0.10482215118020297,
+      "ci_high_pp": 0.18076641404225244,
+      "draws": 10000
+    },
+    {
+      "dataset": "nfcorpus",
+      "metric": "P1",
+      "primary": false,
+      "difference_pp": 1.1627906976744187,
+      "ci_low_pp": -2.3255813953488373,
+      "ci_high_pp": 5.813953488372093,
+      "draws": 10000
+    },
+    {
+      "dataset": "nfcorpus",
+      "metric": "nDCG20",
+      "primary": false,
+      "difference_pp": 0.08823882129421201,
+      "ci_low_pp": -1.1011016511844207,
+      "ci_high_pp": 1.1114380462881066,
+      "draws": 10000
+    },
+    {
+      "dataset": "nfcorpus",
+      "metric": "MRR20",
+      "primary": false,
+      "difference_pp": 0.47392529950669476,
+      "ci_low_pp": -1.492248062015504,
+      "ci_high_pp": 2.566948555320648,
+      "draws": 10000
+    },
+    {
+      "dataset": "nfcorpus",
+      "metric": "R10",
+      "primary": false,
+      "difference_pp": -0.29069767441860467,
+      "ci_low_pp": -0.872093023255814,
+      "ci_high_pp": 0.0,
+      "draws": 10000
+    },
+    {
+      "dataset": "equal_weight_macro",
+      "metric": "P1",
+      "primary": true,
+      "difference_pp": 0.08663399842975883,
+      "ci_low_pp": -1.9454107420605784,
+      "ci_high_pp": 2.2426496156386335,
+      "draws": 10000
+    },
+    {
+      "dataset": "equal_weight_macro",
+      "metric": "nDCG20",
+      "primary": false,
+      "difference_pp": -0.09365417359986306,
+      "ci_low_pp": -0.715648019846018,
+      "ci_high_pp": 0.44170835470279973,
+      "draws": 10000
+    },
+    {
+      "dataset": "equal_weight_macro",
+      "metric": "MRR20",
+      "primary": false,
+      "difference_pp": -0.08984840137376912,
+      "ci_low_pp": -1.1415286119674464,
+      "ci_high_pp": 1.0088798293458758,
+      "draws": 10000
+    },
+    {
+      "dataset": "equal_weight_macro",
+      "metric": "R10",
+      "primary": false,
+      "difference_pp": -0.12631600094712964,
+      "ci_low_pp": -0.4674199051900284,
+      "ci_high_pp": 0.0741509276518573,
+      "draws": 10000
+    }
+  ],
+  "cross_dataset_equal_weight_reports_pct": {
+    "MiniLM": {
+      "P1": 32.721255110052255,
+      "nDCG20": 33.60990979897977,
+      "MRR20": 42.2915889646446,
+      "R10": 34.76559255511823
+    },
+    "fixed_Qwen20": {
+      "P1": 39.759590654357424,
+      "nDCG20": 37.40457974533105,
+      "MRR20": 48.65141158728591,
+      "R10": 39.46902521373029
+    },
+    "Post_G": {
+      "P1": 39.84622465278718,
+      "nDCG20": 37.31092557173119,
+      "MRR20": 48.561563185912135,
+      "R10": 39.34270921278316
+    }
+  },
+  "bootstrap": {
+    "RNG": "Python random.Random",
+    "seed": 20261029,
+    "draws": 10000,
+    "order": "draw outer, fiqa then nfcorpus, sorted base IDs randrange; all member queries weighted",
+    "fixed_model_no_refit": true,
+    "plan_sha256": "03b76029a1e5c20abcf7912b5068a522012563d86939408981db8d95e4dadef4"
+  },
+  "units": {
+    "per_query.csv.gz": "fractions",
+    "reports_pct": "percent",
+    "paired_bootstrap": "percentage points"
+  },
+  "judgment_scope": "Published positives; unjudged documents are not confirmed violations.",
+  "CPU_scoring_wall_seconds": 15.937469892203808,
+  "Python": "3.12.3",
+  "source_model_sha256": "82b1a46e4beed6d0ee038aa84c8ceb2baf866e6e2f2d8dc5dbaa8e3beae0b991"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-09",
+  "python": "3.12.13",
+  "numpy": "2.5.4",
+  "matplotlib": "3.11.2",
+  "per_query_method_records": 96616,
+  "point_metric_checks": 264,
+  "point_max_error_pp": 4.263256414560601e-14,
+  "source_interval_numeric_checks": 72,
+  "source_interval_max_error_pp": 0.0,
+  "python_files_parsed": 126,
+  "figures_regenerated_from_saved_data": [
+    {
+      "figure": "figure_1_white.geometry.json",
+      "width_mm": 122
+    },
+    {
+      "figure": "figure_2_white.geometry.json",
+      "width_mm": 122
+    }
+  ],
+  "full_original_cache_refits": "pending original cache export",
+  "new_neural_scores": 0
+}
