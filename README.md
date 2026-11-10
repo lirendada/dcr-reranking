@@ -1,6 +1,6 @@
 # DCR reranking artifacts
 
-Code and derived research data accompanying **Standalone Reranking Gains and Fusion Value for Instruction-Bearing Queries**.
+Code and derived research data accompanying **Evaluating Full-Request Reranker Scores for Learned Fusion in Instruction-Aware Retrieval**.
 
 Manuscript authors are Haoheng Chen, Xiaodong Song, Congyang Cheng and Haohan Ding. Haohan Ding is the corresponding author. The manuscript is under author review.
 
@@ -22,6 +22,8 @@ python -m pip install -r requirements.txt
 python scripts/check_bootstrap.py
 python figures/draw_figures.py
 ```
+
+Figures are drawn at 119 mm width with 8–10 pt embedded Arial lettering. The plotting script exports vector PDF, editable SVG and a 600 dpi PNG preview.
 
 ## Contents
 

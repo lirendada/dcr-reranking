@@ -1,9 +1,9 @@
 {
-  "release": "v0.1.0",
+  "release": "v0.1.1",
   "files": {
     ".gitignore": "3a1d943b94d85f32ca38d557e2e436cbb4ff861801512e8ef03773887e0511f8",
     "LICENSE": "408a49ac19732b002388b60e52bbfc84a3920fc90164febc9852083a121b48ac",
-    "README.md": "f07e87120d4e2bfb0ce1684d9a77a29a95926f15dd45457ebbbc7c08f0fbe283",
+    "README.md": "4fdcfa3eb91cdc0607ffedb8a8c6b937010b79794dcfd109c93be35351fcfdd9",
     "data/LICENSE.md": "72a3b8cd897d6681a3d26d26e8d9a34a5b022a1f87d1db91984b57ab002b627c",
     "data/arrays/source_attribution_metrics_draws.npz": "65aad2aa08eab8c590e9e62930c9e162e2696370572417473178d00337fca2ac",
     "data/arrays/source_attribution_point_orders.npz": "f8bf3c4c6e0bc11dee5b7933e2bc6f43ffa93d5b9ed5426b7456f205c6c80807",
@@ -158,7 +158,7 @@
     "experiments/dcr_topic_retrieval_v0.1_20261031/run_pipeline.py": "450609814f777b7c6c21fcb9ed7e3de0b4729f299f5ee1ce6609b47dba1fc9d7",
     "experiments/dcr_topic_retrieval_v0.1_20261031/score.py": "0398f49128367037a13bcb0cdd635bfcff01c2ab2ae30921c84a39c14f466f6f",
     "experiments/dcr_topic_retrieval_v0.1_20261031/test_scoring.py": "cb76b4f2ef88c1f7f5c055bb59021695b791eddc3d291bbfce35934ec22eb3c2",
-    "figures/draw_figures.py": "64f988da004434581942daa128b52a47262c0287e4736a8460de388e32c3bb6f",
+    "figures/draw_figures.py": "fdabae1d1bbd9ecaccbbc9dad56abc03cd0ae0af896548b8510e97920cc5ffa9",
     "figures/source_data/fig1_input_effects_and_fusion.json": "d16868dd29e30d1fec218ed440fe347f2a5c0b2215a4a9b98d42946b07e3f4ad",
     "figures/source_data/fig2_cross_collection.json": "53b732c529eff9cec5e1312092c696bf308feb55c67b4d145073953d2c2f211c",
     "kernels/attribution_math.py": "b958d29c2317f2776e507446515b41f626fa65083a1b7c85b0a567d592cfac26",
